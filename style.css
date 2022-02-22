@@ -82,4 +82,5 @@ a:hover {
 .NavOl {
     background: #ff3d3d;
     list-style: none;
+    box-shadow: #8d3737;
 }
